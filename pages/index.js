@@ -44,7 +44,7 @@ export default function Home() {
         <QuizLogo />
         <Widget>
           <Widget.Header>
-            <h1>Concurso militar</h1>
+            <h1>História militar</h1>
           </Widget.Header>
           <Widget.Content>
             <form onSubmit={function (infosDoEvento) {
@@ -67,10 +67,12 @@ export default function Home() {
         </Widget>
 
         <Widget>
-          <Widget.Content>
+          <Widget.Header>
             <h1>Quizes da Galera</h1>
+          </Widget.Header>
+          <Widget.Content>
 
-            <p>lorem ipsum dolor sit amet...</p>
+            <p>Outros quizes para se divertir e aprender</p>
           </Widget.Content>
         </Widget>
         <Footer />
