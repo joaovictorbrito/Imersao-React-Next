@@ -1,32 +1,69 @@
 {
-"bg": "https://images.pexels.com/photos/40820/military-men-departing-service-uniform-40820.jpeg?cs=srgb&dl=pexels-pixabay-40820.jpg&fm=jpg",
-"title": "Quiz Concurso",
-"description": "Teste os seus conhecimentos sobre concursos militares",
+"bg": "https://cdn.mos.cms.futurecdn.net/DKLQwBQpjs738E5Gz2Qucf.jpg",
+"title": "Quiz do Universo Marvel",
+"description": "Teste os seus conhecimentos sobre o universo marvel ",
 "questions": [
   {
-    "image": "https://media.giphy.com/media/htRpQkRlCPyCff3jG0/giphy.gif",
-    "title": "Sobre os movimentos operários nas três primeiras décadas do século XX, no Brasil, assinale a alternativa correta.",
-    "description": "Essa é pra aquecer",
-    "answer": 2,
+    "image": "https://media.giphy.com/media/EOfarA6ZUqzZu/giphy.gif",
+    "title": "Qual é o nome do martelo de Thor?",
+    "description": "Essa é fácil",
+    "answer": 1,
     "alternatives": [
-      "Entre 1917 e 1920, ocorreram grandes greves que mobilizaram expressivo contingente de operários especialmente no Rio de Janeiro e São Paulo.",
-      "Uma das principais características do movimento operário, nesse período no Brasil, foi a ausência de divergências no interior da classe operária.",
-      "O anarquismo foi o movimento operário de menor expressão nas primeiras décadas do século XX no Brasil.",
-      "A união entre comunistas e anarquistas, nesse período, foi o ponto marcante entre estas duas importantes lideranças operárias."
+      "Vanir.",
+      "Mjolnir.",
+      "Aesir.",
+      "Norn."
     ]
   },
   {
-    "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-    "title": "É correto afirmar que:",
-    "description": "Faz tempo em haha",
+    "image": "https://media.giphy.com/media/UJ5I7921pAOEU/giphy.gif",
+    "title": "Antes de se tornar Vision, qual é o nome do mordomo de IA do Homem de Ferro",
+    "description": "Quero vê saber essa",
+    "answer": 3,
+    "alternatives": [
+      "HOMER",
+      "ALFRED",
+      "MARVIN",
+      "JARVIS"
+    ]
+  },
+  {
+    "image": "https://media.giphy.com/media/l3mZslQwX1rJjOZZ6/giphy.gif",
+    "title": "Qual é o verdadeiro nome da Pantera Negra?",
+    "description": "",
     "answer": 0,
     "alternatives": [
-       "A dominação colonial americana impôs ao continente africano um processo de artificialização de fronteiras que provocou a unificação num mesmo território de povos historicamente rivais, causa da maioria dos conflitos no continente.",
-       "Os países africanos em guerra ficam na chamada África do Sul. A região é caracterizada pela pobreza, instabilidade política, economia precária, epidemias, baixos indicativos sociais e constantes embates entre governos e rebeldes.",
-        "Os povos africanos, vítimas históricas da fragmentação territorial construída pelo colonialismo europeu, convivem ainda com rivalidades de toda ordem, como demonstram as várias guerras regionais, exemplificadas no conflito de Ruanda. Esses conflitos internos têm como principais causas a falência do Estado, a batalha pelo controle do governo e a luta por autonomia dos grupos étnicos.",
-        "Com a ajuda humanitária, todos os países em guerra na África estão conseguindo se reconstruir economicamente, alterando, de forma efetiva, as condições de vida da população."
+      "T'Challa",
+      "M'Baku",
+      "N'Jadaka",
+      "N'Jobu"
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/originals/22/68/44/226844d0aa2303d48a92e41284af538d.gif",
+    "title": "Qual é o nome do Noturno?",
+    "description": "",
+    "answer": 2,
+    "alternatives": [
+      "William matheus",
+      "Scott Summers",
+      "Kurt Wagner",
+      "James Alan"
+    ]
+  },
+  {
+    "image": "https://media.giphy.com/media/3oKIPzzYalGFzNMrcY/giphy.gif",
+    "title": "Qual é o nome do lugar no qual os Guardiões da Galáxia encontram o Colecionador no primeiro filme da equipe?",
+    "description": "",
+    "answer": 0,
+    "alternatives": [
+      "Luganenhum",
+      "Asgard",
+      "Sakaar",
+      "Ego"
     ]
   }
+  
 ],
 "external": [
   ""
@@ -35,9 +72,9 @@
   "colors": {
     "primary": "#68786c",
     "secondary": "#29b6f6",
-    "greenClear": "#265232",
-    "greenStrong": "#17301e",
-    "yellow":"#cacc3d",
+    "greenClear": "#0f2e0d",
+    "greenStrong": "#123810",
+    "yellow":"#0b3ba3",
     "mainBg": "#171B35",
     "contrastText": "#FFF",
     "wrong": "#FF5722",
