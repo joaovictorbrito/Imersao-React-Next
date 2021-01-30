@@ -9,8 +9,6 @@ import AlternativesForm from '../../components/AlternativesForm';
 import Button from '../../components/Button';
 import BackLinkArrow from '../../components/BackLinkArrow';
 
-import loadingAnimation from './animations/loading.json';
-
 function ResultWidget({ results }) {
   return (
     <Widget>
@@ -63,7 +61,7 @@ function LoadingWidget() {
           width="200px"
           height="200px"
           className="lottie-container basic"
-          config={{ animationData: loadingAnimation, loop: true, autoplay: true }}
+          
         />
       </Widget.Content>
     </Widget>
